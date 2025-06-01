@@ -1,9 +1,4 @@
 #!/usr/bin/env python
-"""
-This is the Python client library for GrowthBook, the open-source
-feature flagging and A/B testing platform.
-More info at https://www.growthbook.io
-"""
 
 import sys
 import json
